@@ -1,2 +1,2 @@
 # wagtail-sevendays-project
-Wagtail project
+Updating wagtail project. Social media not working.
